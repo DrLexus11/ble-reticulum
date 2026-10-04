@@ -1,5 +1,7 @@
 # CI/CD Workflows
 
+> **In the DrLexus11 fork:** `deploy.yml` (SSH deployment to the upstream author's Raspberry Pis) and `release.yml` (GitHub releases on tags) are removed. Only `test.yml` is kept. The sections below describe the original repository.
+
 This directory contains GitHub Actions and Gitea Actions workflows for automated testing.
 
 ## Workflows
